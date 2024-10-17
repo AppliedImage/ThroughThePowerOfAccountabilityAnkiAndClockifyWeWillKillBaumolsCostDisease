@@ -115,7 +115,7 @@ pip install google-auth google-auth-oauthlib google-api-python-client isodate re
 3. navigate to **apis & services** > **library**.
 4. search for **gmail api** and enable it.
 
-### **forge your oauth credentials**
+### **craft your oauth credentials**
 
 1. go to **apis & services** > **credentials**.
 2. click **create credentials** > **oauth client id**.
